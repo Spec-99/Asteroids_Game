@@ -4,6 +4,7 @@ __pycache__/
 build/
 dist/
 wheels/
+game_state.jsonl/
 *.egg-info
 
 # Virtual environments
